@@ -7,6 +7,8 @@
 	================================================== -->
 	<?php include('includes/headstyles.php'); ?>
 	<!-- Owl Carousel -->
+	<p>I have add this paragraph</p>
+	<h1>heading</h1>
 	<link rel="stylesheet" href="css/owl.carousel.css">
 	<!-- Bxslider -->
 	<link rel="stylesheet" href="css/jquery.bxslider.css">
